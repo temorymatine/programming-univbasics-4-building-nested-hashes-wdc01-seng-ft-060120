@@ -11,7 +11,7 @@ def monopoly_with_third_tier
   
 end
 
-end
+
 
 def monopoly_with_fourth_tier
   # When you start writing the implementation for this method, copy the Hash
